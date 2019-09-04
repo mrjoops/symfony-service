@@ -1,0 +1,16 @@
+{
+    "name": "mrjoops/symfony-service",
+    "description": "A set of useful libraries for building Symfony services.",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandre Lahure",
+            "email": "alexandre@lahu.re"
+        }
+    ],
+    "require": {},
+    "config": {
+        "sort-packages": true
+    }
+}
