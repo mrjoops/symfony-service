@@ -9,7 +9,14 @@
             "email": "alexandre@lahu.re"
         }
     ],
-    "require": {},
+    "require": {
+        "graylog2/gelf-php": "^1.6",
+        "knplabs/knp-gaufrette-bundle": "^0.6.1",
+        "snc/redis-bundle": "^3.1",
+        "sroze/messenger-enqueue-transport": "^0.3.2",
+        "symfony/maker-bundle": "^1.13",
+        "symfony/monolog-bundle": "^3.4"
+    },
     "config": {
         "sort-packages": true
     }
