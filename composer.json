@@ -1,7 +1,7 @@
 {
     "name": "mrjoops/symfony-service",
     "description": "A set of useful libraries for building Symfony services.",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
